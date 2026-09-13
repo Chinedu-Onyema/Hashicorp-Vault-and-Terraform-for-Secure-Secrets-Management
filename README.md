@@ -3,6 +3,10 @@
 This a complete, practical walkthrough on integrating HashiCorp Vault with Terraform to eliminate hardcoded credentials and prevent sensitive values from being persisted in plain text inside terraform.tfstate files. 
 
 This project demonstrates installing Vault on an AWS EC2 instance, configuring an AppRole authentication engine, and writing ephemeral secrets directly to a secure S3 bucket. 
+
+### PDF GUIDE: [NAT INSTANCE CONFIGURATION FOR CLOUD RESOURCES IN PRIVATE SUBNETS.pdf](https://github.com/user-attachments/files/32162183/NAT.INSTANCE.CONFIGURATION.FOR.CLOUD.RESOURCES.IN.PRIVATE.SUBNETS.pdf)
+
+
 ### WATCH VIDEO WALKTHROUGH HERE: https://youtu.be/XZa_F_jOxUs
 
 ## PREREQUISITES
